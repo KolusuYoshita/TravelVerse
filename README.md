@@ -19,7 +19,7 @@ Tech Stack:
 How to Run Locally:
 
 1. Clone the Repository:
-git clone https://github.com/YourUsername/TravelVerse.git
+git clone https://github.com/KolusuYoshita/TravelVerse.git
 
 2. Navigate to the Folder:
 cd TravelVerse
